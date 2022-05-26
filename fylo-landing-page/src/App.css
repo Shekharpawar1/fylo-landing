@@ -44,7 +44,7 @@ ul{
 
 .intro-container{
   background:hsl(218, 28%, 13%);
-  width: 100vw;
+  width: auto;
   text-align: center;
   margin-top: -1rem;
 
