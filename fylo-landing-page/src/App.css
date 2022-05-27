@@ -207,11 +207,19 @@ input[type="email"]{
 @media only Screen and (min-width:768px){
   body{
     height: fit-content;
+    width: fit-content;
   }
   .container{
     flex-direction: row;
     gap:45rem;
     padding:2rem 0rem;
+  }.intro-container{
+    background:hsl(218, 28%, 13%);
+    width: 100vw;
+    text-align: center;
+    margin-top: -1rem;
+  
+  
   }
   .navbar-list{
     gap:5rem;
